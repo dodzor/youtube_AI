@@ -31,10 +31,6 @@ def sort_by_sentiment(df):
 
 sort_by_sentiment(df)
 
-# q: function to list first 10 tweets that takes df as argument
-
-
-
 # book_title = df.loc[0,"tweets"]
 # sentiment = analyzer.polarity_scores(book_title)
 # print(book_title)
